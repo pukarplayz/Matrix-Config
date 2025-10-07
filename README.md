@@ -1,4 +1,3 @@
-````markdown
 # 🔰 Ultimate Matrix Anti-Cheat Config  
 ### by **PukarPlayz** | Version 3.0+
 
